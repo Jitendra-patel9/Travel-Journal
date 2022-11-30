@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-container{
+    background-color: #E8C4C4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards-content{
+    display: flex;
+    margin: 40px;
+}
+
+.card-image{
+    width: 150px;
+    height: 270px;
+    border-radius: 7px;
+}
+
+.card-text{
+    width: 400px;
+    margin-left: 20px;
+}
+
